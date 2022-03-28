@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648507123 source:d:\c\fechavalida\funciones.c
+	"header.h"
+
+1648506465 d:\c\fechavalida\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1648507476 source:d:\c\fechavalida\main.c
+	"header.h"
+
